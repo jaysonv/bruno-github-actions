@@ -4,8 +4,14 @@ meta {
   seq: 1
 }
 
-get {
-  url: https://reqres.in/api/users/1
-  body: none
+post {
+  url: https://reqres.in/api/users/2
+  body: json
   auth: inherit
+}
+
+body:json {
+  {
+    "title": "Bruno"
+  }
 }
