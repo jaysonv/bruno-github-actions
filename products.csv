@@ -1,0 +1,6 @@
+product_id,name,category,price,stock
+P001,Laptop,Electronics,999.99,50
+P002,Smartphone,Electronics,699.99,100
+P003,Desk Chair,Furniture,149.99,30
+P004,Wireless Headphones,Electronics,129.99,75
+P005,Office Desk,Furniture,299.99,20 
